@@ -1,0 +1,8 @@
+{
+  "run_id": "mlp1x512__p0.0__natural__seed0",
+  "state": "done",
+  "stop_reason": "converged",
+  "step": 16,
+  "elapsed_s": 0.07222140021622181,
+  "max_steps": 24
+}

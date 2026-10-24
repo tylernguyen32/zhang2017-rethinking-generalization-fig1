@@ -1,0 +1,26 @@
+[
+  {
+    "model": "inception",
+    "steps": 439,
+    "interrupted_at": 367,
+    "weights_identical": true,
+    "losses_identical": true,
+    "evals_identical": true
+  },
+  {
+    "model": "alexnet",
+    "steps": 439,
+    "interrupted_at": 367,
+    "weights_identical": true,
+    "losses_identical": true,
+    "evals_identical": true
+  },
+  {
+    "model": "mlp1x512",
+    "steps": 439,
+    "interrupted_at": 367,
+    "weights_identical": true,
+    "losses_identical": true,
+    "evals_identical": true
+  }
+]

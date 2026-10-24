@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "bs64": {
+      "batch_size": 64,
+      "lrn_removed": false
+    },
+    "bs256": {
+      "batch_size": 256,
+      "lrn_removed": false
+    },
+    "no_lrn": {
+      "batch_size": 128,
+      "lrn_removed": true
+    }
+  },
+  "runs": [
+    "alexnet/bs64",
+    "alexnet/bs256",
+    "alexnet/no_lrn",
+    "inception/bs64",
+    "inception/bs256"
+  ],
+  "examples_per_eval": 25600,
+  "deterministic": false,
+  "seed": 0,
+  "data_seed": 0,
+  "baseline": "results_fig1\\runs"
+}

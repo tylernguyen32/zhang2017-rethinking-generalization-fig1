@@ -1,0 +1,8 @@
+{
+  "run_id": "inception__p0.1__natural__seed0",
+  "state": "done",
+  "stop_reason": "converged",
+  "step": 7000,
+  "elapsed_s": 352.020838199649,
+  "max_steps": 31280
+}

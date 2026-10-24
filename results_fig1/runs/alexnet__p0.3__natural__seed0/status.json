@@ -1,0 +1,8 @@
+{
+  "run_id": "alexnet__p0.3__natural__seed0",
+  "state": "done",
+  "stop_reason": "converged",
+  "step": 9800,
+  "elapsed_s": 60.435942200012505,
+  "max_steps": 31280
+}

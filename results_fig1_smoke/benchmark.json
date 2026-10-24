@@ -1,0 +1,22 @@
+{
+  "key": {
+    "batch_size": 64,
+    "amp": true,
+    "deterministic": true,
+    "channels_last": true,
+    "n_train": 512,
+    "device": "NVIDIA GeForce RTX 3080 Ti"
+  },
+  "inception": {
+    "s_per_step": 0.02692179000005126,
+    "s_per_eval": 0.02000700030475855
+  },
+  "alexnet": {
+    "s_per_step": 0.004497609985992313,
+    "s_per_eval": 0.006866800133138895
+  },
+  "mlp1x512": {
+    "s_per_step": 0.0015546699985861778,
+    "s_per_eval": 0.001919100061058998
+  }
+}

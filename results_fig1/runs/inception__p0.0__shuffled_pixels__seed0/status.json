@@ -1,0 +1,8 @@
+{
+  "run_id": "inception__p0.0__shuffled_pixels__seed0",
+  "state": "done",
+  "stop_reason": "fixed_length",
+  "step": 25000,
+  "elapsed_s": 1160.9897938999347,
+  "max_steps": 25000
+}

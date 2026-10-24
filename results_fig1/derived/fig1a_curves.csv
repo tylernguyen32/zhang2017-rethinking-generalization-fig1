@@ -1,0 +1,251 @@
+setting,run_id,step_center,average_loss
+true labels,inception__p0.0__natural__seed0,250.0,1.1500463485717773
+true labels,inception__p0.0__natural__seed0,750.0,0.6536245942115784
+true labels,inception__p0.0__natural__seed0,1250.0,0.4836839735507965
+true labels,inception__p0.0__natural__seed0,1750.0,0.36616015434265137
+true labels,inception__p0.0__natural__seed0,2250.0,0.25440436601638794
+true labels,inception__p0.0__natural__seed0,2750.0,0.18382668495178223
+true labels,inception__p0.0__natural__seed0,3250.0,0.12781763076782227
+true labels,inception__p0.0__natural__seed0,3750.0,0.06980060040950775
+true labels,inception__p0.0__natural__seed0,4250.0,0.03547482565045357
+true labels,inception__p0.0__natural__seed0,4750.0,0.014393943361938
+true labels,inception__p0.0__natural__seed0,5250.0,0.00392116978764534
+true labels,inception__p0.0__natural__seed0,5750.0,0.0017664277693256736
+true labels,inception__p0.0__natural__seed0,6250.0,0.001234663650393486
+true labels,inception__p0.0__natural__seed0,6750.0,0.001023094984702766
+true labels,inception__p0.0__natural__seed0,7250.0,0.0008803503587841988
+true labels,inception__p0.0__natural__seed0,7750.0,0.000718112220056355
+true labels,inception__p0.0__natural__seed0,8250.0,0.0006378968828357756
+true labels,inception__p0.0__natural__seed0,8750.0,0.0006077864090912044
+true labels,inception__p0.0__natural__seed0,9250.0,0.0005625445628538728
+true labels,inception__p0.0__natural__seed0,9750.0,0.0005146021139807999
+true labels,inception__p0.0__natural__seed0,10250.0,0.0005023741978220642
+true labels,inception__p0.0__natural__seed0,10750.0,0.0004649258917197585
+true labels,inception__p0.0__natural__seed0,11250.0,0.0004443539946805686
+true labels,inception__p0.0__natural__seed0,11750.0,0.00043810094939544797
+true labels,inception__p0.0__natural__seed0,12250.0,0.00040363127482123673
+true labels,inception__p0.0__natural__seed0,12750.0,0.00040684943087399006
+true labels,inception__p0.0__natural__seed0,13250.0,0.00038151961052790284
+true labels,inception__p0.0__natural__seed0,13750.0,0.0003851070359814912
+true labels,inception__p0.0__natural__seed0,14250.0,0.0003647311532404274
+true labels,inception__p0.0__natural__seed0,14750.0,0.00033206259831786156
+true labels,inception__p0.0__natural__seed0,15250.0,0.00035762638435699046
+true labels,inception__p0.0__natural__seed0,15750.0,0.0003428095660638064
+true labels,inception__p0.0__natural__seed0,16250.0,0.00033341761445626616
+true labels,inception__p0.0__natural__seed0,16750.0,0.0003189956769347191
+true labels,inception__p0.0__natural__seed0,17250.0,0.0003282503457739949
+true labels,inception__p0.0__natural__seed0,17750.0,0.00032188065233640373
+true labels,inception__p0.0__natural__seed0,18250.0,0.00030512528610415757
+true labels,inception__p0.0__natural__seed0,18750.0,0.00032344955252483487
+true labels,inception__p0.0__natural__seed0,19250.0,0.00029907323187217116
+true labels,inception__p0.0__natural__seed0,19750.0,0.0002996156399603933
+true labels,inception__p0.0__natural__seed0,20250.0,0.0003008221392519772
+true labels,inception__p0.0__natural__seed0,20750.0,0.00028968084370717406
+true labels,inception__p0.0__natural__seed0,21250.0,0.00030701194191351533
+true labels,inception__p0.0__natural__seed0,21750.0,0.0002891771146096289
+true labels,inception__p0.0__natural__seed0,22250.0,0.00029806053498759866
+true labels,inception__p0.0__natural__seed0,22750.0,0.00029180015553720295
+true labels,inception__p0.0__natural__seed0,23250.0,0.0002929862530436367
+true labels,inception__p0.0__natural__seed0,23750.0,0.00026562612038105726
+true labels,inception__p0.0__natural__seed0,24250.0,0.00027671048883348703
+true labels,inception__p0.0__natural__seed0,24750.0,0.0002804349351208657
+random labels,inception__p1.0__natural__seed0,250.0,2.329671859741211
+random labels,inception__p1.0__natural__seed0,750.0,2.3042774200439453
+random labels,inception__p1.0__natural__seed0,1250.0,2.3033530712127686
+random labels,inception__p1.0__natural__seed0,1750.0,2.3027915954589844
+random labels,inception__p1.0__natural__seed0,2250.0,2.301769495010376
+random labels,inception__p1.0__natural__seed0,2750.0,2.3007564544677734
+random labels,inception__p1.0__natural__seed0,3250.0,2.299229621887207
+random labels,inception__p1.0__natural__seed0,3750.0,2.2959468364715576
+random labels,inception__p1.0__natural__seed0,4250.0,2.2925848960876465
+random labels,inception__p1.0__natural__seed0,4750.0,2.2870125770568848
+random labels,inception__p1.0__natural__seed0,5250.0,2.279263734817505
+random labels,inception__p1.0__natural__seed0,5750.0,2.264423131942749
+random labels,inception__p1.0__natural__seed0,6250.0,2.2506790161132812
+random labels,inception__p1.0__natural__seed0,6750.0,2.226322889328003
+random labels,inception__p1.0__natural__seed0,7250.0,2.1772539615631104
+random labels,inception__p1.0__natural__seed0,7750.0,2.123716354370117
+random labels,inception__p1.0__natural__seed0,8250.0,2.055891990661621
+random labels,inception__p1.0__natural__seed0,8750.0,1.9510142803192139
+random labels,inception__p1.0__natural__seed0,9250.0,1.7700341939926147
+random labels,inception__p1.0__natural__seed0,9750.0,1.62550687789917
+random labels,inception__p1.0__natural__seed0,10250.0,1.4708513021469116
+random labels,inception__p1.0__natural__seed0,10750.0,1.241387963294983
+random labels,inception__p1.0__natural__seed0,11250.0,1.0028525590896606
+random labels,inception__p1.0__natural__seed0,11750.0,0.8437816500663757
+random labels,inception__p1.0__natural__seed0,12250.0,0.6807351112365723
+random labels,inception__p1.0__natural__seed0,12750.0,0.48362505435943604
+random labels,inception__p1.0__natural__seed0,13250.0,0.3406825363636017
+random labels,inception__p1.0__natural__seed0,13750.0,0.23556940257549286
+random labels,inception__p1.0__natural__seed0,14250.0,0.12760120630264282
+random labels,inception__p1.0__natural__seed0,14750.0,0.05049751326441765
+random labels,inception__p1.0__natural__seed0,15250.0,0.01934242621064186
+random labels,inception__p1.0__natural__seed0,15750.0,0.00957996305078268
+random labels,inception__p1.0__natural__seed0,16250.0,0.004976124968379736
+random labels,inception__p1.0__natural__seed0,16750.0,0.003499454353004694
+random labels,inception__p1.0__natural__seed0,17250.0,0.003033367218449712
+random labels,inception__p1.0__natural__seed0,17750.0,0.0025856762658804655
+random labels,inception__p1.0__natural__seed0,18250.0,0.0022289524786174297
+random labels,inception__p1.0__natural__seed0,18750.0,0.0021717119961977005
+random labels,inception__p1.0__natural__seed0,19250.0,0.0019709051121026278
+random labels,inception__p1.0__natural__seed0,19750.0,0.001799953170120716
+random labels,inception__p1.0__natural__seed0,20250.0,0.0016562917735427618
+random labels,inception__p1.0__natural__seed0,20750.0,0.0015287335263565183
+random labels,inception__p1.0__natural__seed0,21250.0,0.0015165654476732016
+random labels,inception__p1.0__natural__seed0,21750.0,0.0015146885998547077
+random labels,inception__p1.0__natural__seed0,22250.0,0.0013819277519360185
+random labels,inception__p1.0__natural__seed0,22750.0,0.0013354795519262552
+random labels,inception__p1.0__natural__seed0,23250.0,0.0013147706631571054
+random labels,inception__p1.0__natural__seed0,23750.0,0.0012504465412348509
+random labels,inception__p1.0__natural__seed0,24250.0,0.001248655840754509
+random labels,inception__p1.0__natural__seed0,24750.0,0.001210539834573865
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,250.0,1.817414402961731
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,750.0,1.4882688522338867
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,1250.0,1.3194032907485962
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,1750.0,1.151802659034729
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,2250.0,0.9871843457221985
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,2750.0,0.8483344912528992
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,3250.0,0.7129998803138733
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,3750.0,0.5088335275650024
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,4250.0,0.3743925988674164
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,4750.0,0.28295353055000305
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,5250.0,0.18518176674842834
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,5750.0,0.09808825701475143
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,6250.0,0.055473487824201584
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,6750.0,0.021475890651345253
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,7250.0,0.006440992467105389
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,7750.0,0.001750416588038206
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,8250.0,0.0010155744384974241
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,8750.0,0.0007136394851841033
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,9250.0,0.0005646044155582786
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,9750.0,0.0005279314354993403
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,10250.0,0.00047964826808311045
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,10750.0,0.0004283482558093965
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,11250.0,0.00037839042488485575
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,11750.0,0.000370950874639675
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,12250.0,0.0003295412170700729
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,12750.0,0.0003203093947377056
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,13250.0,0.0002971696376334876
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,13750.0,0.0002929826150648296
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,14250.0,0.0002722195931710303
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,14750.0,0.00025683300918899477
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,15250.0,0.00027605844661593437
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,15750.0,0.0002658172161318362
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,16250.0,0.0002517225802876055
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,16750.0,0.00024342277902178466
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,17250.0,0.00023906651767902076
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,17750.0,0.00023311168479267508
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,18250.0,0.00023054433404468
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,18750.0,0.00022555506438948214
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,19250.0,0.0002156367845600471
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,19750.0,0.00021057410049252212
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,20250.0,0.00022222739062272012
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,20750.0,0.0002152298402506858
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,21250.0,0.00021428012405522168
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,21750.0,0.00020417383348103613
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,22250.0,0.00021181329793762416
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,22750.0,0.00020984679576940835
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,23250.0,0.00021047935297247022
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,23750.0,0.00019091008289251477
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,24250.0,0.00020319280156400055
+shuffled pixels,inception__p0.0__shuffled_pixels__seed0,24750.0,0.00018554013513494283
+random pixels,inception__p0.0__random_pixels__seed0,250.0,2.009164571762085
+random pixels,inception__p0.0__random_pixels__seed0,750.0,1.82975435256958
+random pixels,inception__p0.0__random_pixels__seed0,1250.0,1.7401703596115112
+random pixels,inception__p0.0__random_pixels__seed0,1750.0,1.6752396821975708
+random pixels,inception__p0.0__random_pixels__seed0,2250.0,1.6217265129089355
+random pixels,inception__p0.0__random_pixels__seed0,2750.0,1.5797065496444702
+random pixels,inception__p0.0__random_pixels__seed0,3250.0,1.5388103723526
+random pixels,inception__p0.0__random_pixels__seed0,3750.0,1.499080777168274
+random pixels,inception__p0.0__random_pixels__seed0,4250.0,1.4588195085525513
+random pixels,inception__p0.0__random_pixels__seed0,4750.0,1.4210634231567383
+random pixels,inception__p0.0__random_pixels__seed0,5250.0,1.3774077892303467
+random pixels,inception__p0.0__random_pixels__seed0,5750.0,1.3156465291976929
+random pixels,inception__p0.0__random_pixels__seed0,6250.0,1.2682080268859863
+random pixels,inception__p0.0__random_pixels__seed0,6750.0,1.2079204320907593
+random pixels,inception__p0.0__random_pixels__seed0,7250.0,1.1144752502441406
+random pixels,inception__p0.0__random_pixels__seed0,7750.0,1.032393455505371
+random pixels,inception__p0.0__random_pixels__seed0,8250.0,0.9589986801147461
+random pixels,inception__p0.0__random_pixels__seed0,8750.0,0.8701480031013489
+random pixels,inception__p0.0__random_pixels__seed0,9250.0,0.7237312197685242
+random pixels,inception__p0.0__random_pixels__seed0,9750.0,0.6349239945411682
+random pixels,inception__p0.0__random_pixels__seed0,10250.0,0.5438305735588074
+random pixels,inception__p0.0__random_pixels__seed0,10750.0,0.4468861520290375
+random pixels,inception__p0.0__random_pixels__seed0,11250.0,0.321609765291214
+random pixels,inception__p0.0__random_pixels__seed0,11750.0,0.260419100522995
+random pixels,inception__p0.0__random_pixels__seed0,12250.0,0.1955542266368866
+random pixels,inception__p0.0__random_pixels__seed0,12750.0,0.12243861705064774
+random pixels,inception__p0.0__random_pixels__seed0,13250.0,0.07353613525629044
+random pixels,inception__p0.0__random_pixels__seed0,13750.0,0.040999386459589005
+random pixels,inception__p0.0__random_pixels__seed0,14250.0,0.01918001100420952
+random pixels,inception__p0.0__random_pixels__seed0,14750.0,0.008615260943770409
+random pixels,inception__p0.0__random_pixels__seed0,15250.0,0.0055838231928646564
+random pixels,inception__p0.0__random_pixels__seed0,15750.0,0.004353289492428303
+random pixels,inception__p0.0__random_pixels__seed0,16250.0,0.0034560689236968756
+random pixels,inception__p0.0__random_pixels__seed0,16750.0,0.0028372183442115784
+random pixels,inception__p0.0__random_pixels__seed0,17250.0,0.002377668861299753
+random pixels,inception__p0.0__random_pixels__seed0,17750.0,0.002089508343487978
+random pixels,inception__p0.0__random_pixels__seed0,18250.0,0.0018437542021274567
+random pixels,inception__p0.0__random_pixels__seed0,18750.0,0.0018618209287524223
+random pixels,inception__p0.0__random_pixels__seed0,19250.0,0.001670708879828453
+random pixels,inception__p0.0__random_pixels__seed0,19750.0,0.001543598365969956
+random pixels,inception__p0.0__random_pixels__seed0,20250.0,0.0015216917963698506
+random pixels,inception__p0.0__random_pixels__seed0,20750.0,0.0014126624446362257
+random pixels,inception__p0.0__random_pixels__seed0,21250.0,0.0013585035922005773
+random pixels,inception__p0.0__random_pixels__seed0,21750.0,0.0013484511291608214
+random pixels,inception__p0.0__random_pixels__seed0,22250.0,0.001248431857675314
+random pixels,inception__p0.0__random_pixels__seed0,22750.0,0.001238089520484209
+random pixels,inception__p0.0__random_pixels__seed0,23250.0,0.0012257940834388137
+random pixels,inception__p0.0__random_pixels__seed0,23750.0,0.0010484495433047414
+random pixels,inception__p0.0__random_pixels__seed0,24250.0,0.001116952975280583
+random pixels,inception__p0.0__random_pixels__seed0,24750.0,0.001050080289132893
+gaussian,inception__p0.0__gaussian__seed0,250.0,2.3475682735443115
+gaussian,inception__p0.0__gaussian__seed0,750.0,2.300112724304199
+gaussian,inception__p0.0__gaussian__seed0,1250.0,2.2850327491760254
+gaussian,inception__p0.0__gaussian__seed0,1750.0,2.2402641773223877
+gaussian,inception__p0.0__gaussian__seed0,2250.0,2.1769778728485107
+gaussian,inception__p0.0__gaussian__seed0,2750.0,2.0761802196502686
+gaussian,inception__p0.0__gaussian__seed0,3250.0,1.938700795173645
+gaussian,inception__p0.0__gaussian__seed0,3750.0,1.632333755493164
+gaussian,inception__p0.0__gaussian__seed0,4250.0,1.3964025974273682
+gaussian,inception__p0.0__gaussian__seed0,4750.0,1.1294184923171997
+gaussian,inception__p0.0__gaussian__seed0,5250.0,0.8338615894317627
+gaussian,inception__p0.0__gaussian__seed0,5750.0,0.5338069796562195
+gaussian,inception__p0.0__gaussian__seed0,6250.0,0.36359015107154846
+gaussian,inception__p0.0__gaussian__seed0,6750.0,0.23447604477405548
+gaussian,inception__p0.0__gaussian__seed0,7250.0,0.12302258610725403
+gaussian,inception__p0.0__gaussian__seed0,7750.0,0.041988566517829895
+gaussian,inception__p0.0__gaussian__seed0,8250.0,0.009051809087395668
+gaussian,inception__p0.0__gaussian__seed0,8750.0,0.001819383236579597
+gaussian,inception__p0.0__gaussian__seed0,9250.0,0.0009131031110882759
+gaussian,inception__p0.0__gaussian__seed0,9750.0,0.0007210838957689703
+gaussian,inception__p0.0__gaussian__seed0,10250.0,0.0006116684526205063
+gaussian,inception__p0.0__gaussian__seed0,10750.0,0.0005226345965638757
+gaussian,inception__p0.0__gaussian__seed0,11250.0,0.0004673574003390968
+gaussian,inception__p0.0__gaussian__seed0,11750.0,0.0004389364621601999
+gaussian,inception__p0.0__gaussian__seed0,12250.0,0.000388201093301177
+gaussian,inception__p0.0__gaussian__seed0,12750.0,0.00037638057256117463
+gaussian,inception__p0.0__gaussian__seed0,13250.0,0.00035619662958197296
+gaussian,inception__p0.0__gaussian__seed0,13750.0,0.00033562438329681754
+gaussian,inception__p0.0__gaussian__seed0,14250.0,0.0003223891253583133
+gaussian,inception__p0.0__gaussian__seed0,14750.0,0.0003052673419006169
+gaussian,inception__p0.0__gaussian__seed0,15250.0,0.00029722548788413405
+gaussian,inception__p0.0__gaussian__seed0,15750.0,0.0002923919528257102
+gaussian,inception__p0.0__gaussian__seed0,16250.0,0.0002804704417940229
+gaussian,inception__p0.0__gaussian__seed0,16750.0,0.00027074210811406374
+gaussian,inception__p0.0__gaussian__seed0,17250.0,0.00026578831602819264
+gaussian,inception__p0.0__gaussian__seed0,17750.0,0.0002539444831199944
+gaussian,inception__p0.0__gaussian__seed0,18250.0,0.00025200238451361656
+gaussian,inception__p0.0__gaussian__seed0,18750.0,0.0002513451036065817
+gaussian,inception__p0.0__gaussian__seed0,19250.0,0.0002492952044121921
+gaussian,inception__p0.0__gaussian__seed0,19750.0,0.0002445184800308198
+gaussian,inception__p0.0__gaussian__seed0,20250.0,0.0002462752745486796
+gaussian,inception__p0.0__gaussian__seed0,20750.0,0.00023499978124164045
+gaussian,inception__p0.0__gaussian__seed0,21250.0,0.00023356062592938542
+gaussian,inception__p0.0__gaussian__seed0,21750.0,0.00022481322230305523
+gaussian,inception__p0.0__gaussian__seed0,22250.0,0.00022976353648118675
+gaussian,inception__p0.0__gaussian__seed0,22750.0,0.0002236738073406741
+gaussian,inception__p0.0__gaussian__seed0,23250.0,0.00022181330132298172
+gaussian,inception__p0.0__gaussian__seed0,23750.0,0.00022245907166507095
+gaussian,inception__p0.0__gaussian__seed0,24250.0,0.000217241991776973
+gaussian,inception__p0.0__gaussian__seed0,24750.0,0.0002131464279955253

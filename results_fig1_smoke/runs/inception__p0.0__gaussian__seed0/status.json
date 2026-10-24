@@ -1,0 +1,8 @@
+{
+  "run_id": "inception__p0.0__gaussian__seed0",
+  "state": "done",
+  "stop_reason": "fixed_length",
+  "step": 24,
+  "elapsed_s": 0.740824700333178,
+  "max_steps": 24
+}
